@@ -1,0 +1,464 @@
+INFO:root:Namespace(model_mode='', model_name='LightGCN')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-15 23:25:24 ---------------------------------------------
+INFO:root:
+===========================================
+ Arguments          | Values               
+===========================================
+ batch_size         | 256                 
+ data_appendix      |                     
+ dataset            | Grocery_and_Gourm...
+ dropout            | 0                   
+ early_stop         | 10                  
+ emb_size           | 64                  
+ epoch              | 200                 
+ eval_batch_size    | 256                 
+ gpu                | 0                   
+ l2                 | 0                   
+ lr                 | 0.001               
+ main_metric        |                     
+ n_layers           | 3                   
+ num_neg            | 1                   
+ num_workers        | 5                   
+ optimizer          | Adam                
+ random_seed        | 0                   
+ save_final_results | 1                   
+ test_all           | 0                   
+ topk               | 5,10,20,50          
+===========================================
+INFO:root:Device: cuda
+INFO:root:Reading data from "data/", dataset = "Grocery_and_Gourmet_Food" 
+INFO:root:Namespace(model_mode='', model_name='LightGCN')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-15 23:26:26 ---------------------------------------------
+INFO:root:
+===========================================
+ Arguments          | Values               
+===========================================
+ batch_size         | 256                 
+ data_appendix      |                     
+ dataset            | Grocery_and_Gourm...
+ dropout            | 0                   
+ early_stop         | 10                  
+ emb_size           | 64                  
+ epoch              | 200                 
+ eval_batch_size    | 256                 
+ gpu                | 0                   
+ l2                 | 0                   
+ lr                 | 0.001               
+ main_metric        |                     
+ n_layers           | 3                   
+ num_neg            | 1                   
+ num_workers        | 5                   
+ optimizer          | Adam                
+ random_seed        | 0                   
+ save_final_results | 1                   
+ test_all           | 0                   
+ topk               | 5,10,20,50          
+===========================================
+INFO:root:Device: cuda
+INFO:root:Reading data from "data/", dataset = "Grocery_and_Gourmet_Food" 
+INFO:root:Namespace(model_mode='', model_name='LightGCN')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-17 16:44:46 ---------------------------------------------
+INFO:root:
+===========================================
+ Arguments          | Values               
+===========================================
+ batch_size         | 256                 
+ data_appendix      |                     
+ dataset            | Grocery_and_Gourm...
+ dropout            | 0                   
+ early_stop         | 10                  
+ emb_size           | 64                  
+ epoch              | 200                 
+ eval_batch_size    | 256                 
+ gpu                | 0                   
+ l2                 | 0                   
+ lr                 | 0.001               
+ main_metric        |                     
+ n_layers           | 3                   
+ num_neg            | 1                   
+ num_workers        | 0                   
+ optimizer          | Adam                
+ random_seed        | 0                   
+ save_final_results | 1                   
+ test_all           | 0                   
+ topk               | 5,10,20,50          
+===========================================
+INFO:root:Device: cuda
+INFO:root:Reading data from "data/", dataset = "Grocery_and_Gourmet_Food" 
+INFO:root:Namespace(model_mode='', model_name='LightGCN')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-17 16:44:50 ---------------------------------------------
+INFO:root:
+===========================================
+ Arguments          | Values               
+===========================================
+ batch_size         | 256                 
+ data_appendix      |                     
+ dataset            | Grocery_and_Gourm...
+ dropout            | 0                   
+ early_stop         | 10                  
+ emb_size           | 64                  
+ epoch              | 200                 
+ eval_batch_size    | 256                 
+ gpu                | 0                   
+ l2                 | 0                   
+ lr                 | 0.001               
+ main_metric        |                     
+ n_layers           | 3                   
+ num_neg            | 1                   
+ num_workers        | 0                   
+ optimizer          | Adam                
+ random_seed        | 0                   
+ save_final_results | 1                   
+ test_all           | 0                   
+ topk               | 5,10,20,50          
+===========================================
+INFO:root:Device: cuda
+INFO:root:Reading data from "data/", dataset = "Grocery_and_Gourmet_Food" 
+INFO:root:Namespace(model_mode='', model_name='LightGCN')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-17 16:44:51 ---------------------------------------------
+INFO:root:
+===========================================
+ Arguments          | Values               
+===========================================
+ batch_size         | 256                 
+ data_appendix      |                     
+ dataset            | Grocery_and_Gourm...
+ dropout            | 0                   
+ early_stop         | 10                  
+ emb_size           | 64                  
+ epoch              | 200                 
+ eval_batch_size    | 256                 
+ gpu                | 0                   
+ l2                 | 0                   
+ lr                 | 0.001               
+ main_metric        |                     
+ n_layers           | 3                   
+ num_neg            | 1                   
+ num_workers        | 0                   
+ optimizer          | Adam                
+ random_seed        | 0                   
+ save_final_results | 1                   
+ test_all           | 0                   
+ topk               | 5,10,20,50          
+===========================================
+INFO:root:Device: cuda
+INFO:root:Reading data from "data/", dataset = "Grocery_and_Gourmet_Food" 
+INFO:root:Namespace(model_mode='', model_name='LightGCN')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-17 16:44:53 ---------------------------------------------
+INFO:root:
+===========================================
+ Arguments          | Values               
+===========================================
+ batch_size         | 256                 
+ data_appendix      |                     
+ dataset            | Grocery_and_Gourm...
+ dropout            | 0                   
+ early_stop         | 10                  
+ emb_size           | 64                  
+ epoch              | 200                 
+ eval_batch_size    | 256                 
+ gpu                | 0                   
+ l2                 | 0                   
+ lr                 | 0.001               
+ main_metric        |                     
+ n_layers           | 3                   
+ num_neg            | 1                   
+ num_workers        | 0                   
+ optimizer          | Adam                
+ random_seed        | 0                   
+ save_final_results | 1                   
+ test_all           | 0                   
+ topk               | 5,10,20,50          
+===========================================
+INFO:root:Device: cuda
+INFO:root:Reading data from "data/", dataset = "Grocery_and_Gourmet_Food" 
+INFO:root:Namespace(model_mode='', model_name='LightGCN')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-17 16:44:54 ---------------------------------------------
+INFO:root:
+===========================================
+ Arguments          | Values               
+===========================================
+ batch_size         | 256                 
+ data_appendix      |                     
+ dataset            | Grocery_and_Gourm...
+ dropout            | 0                   
+ early_stop         | 10                  
+ emb_size           | 64                  
+ epoch              | 200                 
+ eval_batch_size    | 256                 
+ gpu                | 0                   
+ l2                 | 0                   
+ lr                 | 0.001               
+ main_metric        |                     
+ n_layers           | 3                   
+ num_neg            | 1                   
+ num_workers        | 0                   
+ optimizer          | Adam                
+ random_seed        | 0                   
+ save_final_results | 1                   
+ test_all           | 0                   
+ topk               | 5,10,20,50          
+===========================================
+INFO:root:Device: cuda
+INFO:root:Reading data from "data/", dataset = "Grocery_and_Gourmet_Food" 
+INFO:root:Namespace(model_mode='', model_name='LightGCN')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-17 16:44:55 ---------------------------------------------
+INFO:root:
+===========================================
+ Arguments          | Values               
+===========================================
+ batch_size         | 256                 
+ data_appendix      |                     
+ dataset            | Grocery_and_Gourm...
+ dropout            | 0                   
+ early_stop         | 10                  
+ emb_size           | 64                  
+ epoch              | 200                 
+ eval_batch_size    | 256                 
+ gpu                | 0                   
+ l2                 | 0                   
+ lr                 | 0.001               
+ main_metric        |                     
+ n_layers           | 3                   
+ num_neg            | 1                   
+ num_workers        | 0                   
+ optimizer          | Adam                
+ random_seed        | 0                   
+ save_final_results | 1                   
+ test_all           | 0                   
+ topk               | 5,10,20,50          
+===========================================
+INFO:root:Device: cuda
+INFO:root:Reading data from "data/", dataset = "Grocery_and_Gourmet_Food" 
+INFO:root:Namespace(model_mode='', model_name='LightGCN')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-17 16:44:57 ---------------------------------------------
+INFO:root:
+===========================================
+ Arguments          | Values               
+===========================================
+ batch_size         | 256                 
+ data_appendix      |                     
+ dataset            | Grocery_and_Gourm...
+ dropout            | 0                   
+ early_stop         | 10                  
+ emb_size           | 64                  
+ epoch              | 200                 
+ eval_batch_size    | 256                 
+ gpu                | 0                   
+ l2                 | 0                   
+ lr                 | 0.001               
+ main_metric        |                     
+ n_layers           | 3                   
+ num_neg            | 1                   
+ num_workers        | 0                   
+ optimizer          | Adam                
+ random_seed        | 0                   
+ save_final_results | 1                   
+ test_all           | 0                   
+ topk               | 5,10,20,50          
+===========================================
+INFO:root:Device: cuda
+INFO:root:Reading data from "data/", dataset = "Grocery_and_Gourmet_Food" 
+INFO:root:Namespace(model_mode='', model_name='LightGCN')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-17 16:44:58 ---------------------------------------------
+INFO:root:
+===========================================
+ Arguments          | Values               
+===========================================
+ batch_size         | 256                 
+ data_appendix      |                     
+ dataset            | Grocery_and_Gourm...
+ dropout            | 0                   
+ early_stop         | 10                  
+ emb_size           | 64                  
+ epoch              | 200                 
+ eval_batch_size    | 256                 
+ gpu                | 0                   
+ l2                 | 0                   
+ lr                 | 0.001               
+ main_metric        |                     
+ n_layers           | 3                   
+ num_neg            | 1                   
+ num_workers        | 0                   
+ optimizer          | Adam                
+ random_seed        | 0                   
+ save_final_results | 1                   
+ test_all           | 0                   
+ topk               | 5,10,20,50          
+===========================================
+INFO:root:Device: cuda
+INFO:root:Reading data from "data/", dataset = "Grocery_and_Gourmet_Food" 
+INFO:root:Namespace(model_mode='', model_name='LightGCN')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-17 16:44:59 ---------------------------------------------
+INFO:root:
+===========================================
+ Arguments          | Values               
+===========================================
+ batch_size         | 256                 
+ data_appendix      |                     
+ dataset            | Grocery_and_Gourm...
+ dropout            | 0                   
+ early_stop         | 10                  
+ emb_size           | 64                  
+ epoch              | 200                 
+ eval_batch_size    | 256                 
+ gpu                | 0                   
+ l2                 | 0                   
+ lr                 | 0.001               
+ main_metric        |                     
+ n_layers           | 3                   
+ num_neg            | 1                   
+ num_workers        | 0                   
+ optimizer          | Adam                
+ random_seed        | 0                   
+ save_final_results | 1                   
+ test_all           | 0                   
+ topk               | 5,10,20,50          
+===========================================
+INFO:root:Device: cuda
+INFO:root:Reading data from "data/", dataset = "Grocery_and_Gourmet_Food" 
+INFO:root:Namespace(model_mode='', model_name='LightGCN')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-17 16:45:01 ---------------------------------------------
+INFO:root:
+===========================================
+ Arguments          | Values               
+===========================================
+ batch_size         | 256                 
+ data_appendix      |                     
+ dataset            | Grocery_and_Gourm...
+ dropout            | 0                   
+ early_stop         | 10                  
+ emb_size           | 64                  
+ epoch              | 200                 
+ eval_batch_size    | 256                 
+ gpu                | 0                   
+ l2                 | 0                   
+ lr                 | 0.001               
+ main_metric        |                     
+ n_layers           | 3                   
+ num_neg            | 1                   
+ num_workers        | 0                   
+ optimizer          | Adam                
+ random_seed        | 0                   
+ save_final_results | 1                   
+ test_all           | 0                   
+ topk               | 5,10,20,50          
+===========================================
+INFO:root:Device: cuda
+INFO:root:Reading data from "data/", dataset = "Grocery_and_Gourmet_Food" 
+INFO:root:Namespace(model_mode='', model_name='LightGCN')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-17 16:45:02 ---------------------------------------------
+INFO:root:
+===========================================
+ Arguments          | Values               
+===========================================
+ batch_size         | 256                 
+ data_appendix      |                     
+ dataset            | Grocery_and_Gourm...
+ dropout            | 0                   
+ early_stop         | 10                  
+ emb_size           | 64                  
+ epoch              | 200                 
+ eval_batch_size    | 256                 
+ gpu                | 0                   
+ l2                 | 0                   
+ lr                 | 0.001               
+ main_metric        |                     
+ n_layers           | 3                   
+ num_neg            | 1                   
+ num_workers        | 0                   
+ optimizer          | Adam                
+ random_seed        | 0                   
+ save_final_results | 1                   
+ test_all           | 0                   
+ topk               | 5,10,20,50          
+===========================================
+INFO:root:Device: cuda
+INFO:root:Reading data from "data/", dataset = "Grocery_and_Gourmet_Food" 
+INFO:root:Namespace(model_mode='', model_name='LightGCN')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-17 16:45:03 ---------------------------------------------
+INFO:root:
+===========================================
+ Arguments          | Values               
+===========================================
+ batch_size         | 256                 
+ data_appendix      |                     
+ dataset            | Grocery_and_Gourm...
+ dropout            | 0                   
+ early_stop         | 10                  
+ emb_size           | 64                  
+ epoch              | 200                 
+ eval_batch_size    | 256                 
+ gpu                | 0                   
+ l2                 | 0                   
+ lr                 | 0.001               
+ main_metric        |                     
+ n_layers           | 3                   
+ num_neg            | 1                   
+ num_workers        | 0                   
+ optimizer          | Adam                
+ random_seed        | 0                   
+ save_final_results | 1                   
+ test_all           | 0                   
+ topk               | 5,10,20,50          
+===========================================
+INFO:root:Device: cuda
+INFO:root:Reading data from "data/", dataset = "Grocery_and_Gourmet_Food" 
+INFO:root:Namespace(model_mode='', model_name='LightGCN')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-17 16:45:05 ---------------------------------------------
+INFO:root:
+===========================================
+ Arguments          | Values               
+===========================================
+ batch_size         | 256                 
+ data_appendix      |                     
+ dataset            | Grocery_and_Gourm...
+ dropout            | 0                   
+ early_stop         | 10                  
+ emb_size           | 64                  
+ epoch              | 200                 
+ eval_batch_size    | 256                 
+ gpu                | 0                   
+ l2                 | 0                   
+ lr                 | 0.001               
+ main_metric        |                     
+ n_layers           | 3                   
+ num_neg            | 1                   
+ num_workers        | 0                   
+ optimizer          | Adam                
+ random_seed        | 0                   
+ save_final_results | 1                   
+ test_all           | 0                   
+ topk               | 5,10,20,50          
+===========================================
+INFO:root:Device: cuda
+INFO:root:Reading data from "data/", dataset = "Grocery_and_Gourmet_Food" 
+INFO:root:Namespace(model_mode='', model_name='LightGCN')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-17 16:45:06 ---------------------------------------------
+INFO:root:
+===========================================
+ Arguments          | Values               
+===========================================
+ batch_size         | 256                 
+ data_appendix      |                     
+ dataset            | Grocery_and_Gourm...
+ dropout            | 0                   
+ early_stop         | 10                  
+ emb_size           | 64                  
+ epoch              | 200                 
+ eval_batch_size    | 256                 
+ gpu                | 0                   
+ l2                 | 0                   
+ lr                 | 0.001               
+ main_metric        |                     
+ n_layers           | 3                   
+ num_neg            | 1                   
+ num_workers        | 0                   
+ optimizer          | Adam                
+ random_seed        | 0                   
+ save_final_results | 1                   
+ test_all           | 0                   
+ topk               | 5,10,20,50          
+===========================================
+INFO:root:Device: cuda
+INFO:root:Reading data from "data/", dataset = "Grocery_and_Gourmet_Food" 
