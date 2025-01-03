@@ -5,6 +5,7 @@
 
 ## 环境配置
 安装依赖：
+
 pip install -r requirements.txt
 
 ## 运行方法
@@ -13,6 +14,7 @@ pip install -r requirements.txt
 创建名为ReChorus_master的conda虚拟环境，且python==3.7
 
 cd ReChorus_master
+
 python src/LightGCN_new.py --model_name=LightGCN --n_layers=3 --metric=NDCG,RECALL --dataset=ML_1MTOPK --topk=20,40,60,80,100
 
 ### 运行示例
