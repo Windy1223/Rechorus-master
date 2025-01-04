@@ -8,6 +8,11 @@
 
 pip install -r requirements.txt
 
+## 代码更改
+我们在src中添加了LightGCN_new.py 文件，其中添加了CustomLightGCN类，作为我们实验使用的LightGCN，并添加了带有IMIX的LightGCN，NGCF，带有IMIX的NGCF，该文件只用于运行这个四个类，效果与main相当。
+
+我们还在src中添加了run.py 文件，该文件用于运行多种参数的命令。
+
 ## 运行方法
 以下命令用于在 ReChorus 框架中运行 LightGCN 模型：
 
