@@ -1,4 +1,4 @@
-# ReChorus - Graph Convolutional Network Recommender Systems
+# ReChorus-Master
 
 ## 项目简介
 本项目为中山大学人工智能学院2022级机器学习课程的大作业。主要目标为利用 ReChorus 框架复现论文《Graph Convolution Network based Recommender Systems: Learning Guarantee and Item Mixture Powered Strategy》，验证 LightGCN 在推荐系统上的泛用性，并评估 IMix 方法的实用性。
